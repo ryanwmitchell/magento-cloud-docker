@@ -27,7 +27,11 @@
         "consolidation/robo": "^1.2",
         "phpmd/phpmd": "@stable",
         "phpstan/phpstan": "^0.12",
+<<<<<<< HEAD
         "phpunit/phpunit": "^7.5 || ^9.5",
+=======
+        "phpunit/phpunit": "^8.5 || ^9.5",
+>>>>>>> c6e1ca9b3d23b95fa27a65ece77fc3a11f43db86
         "squizlabs/php_codesniffer": "^3.0"
     },
     "bin": [
